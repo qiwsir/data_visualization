@@ -1,6 +1,6 @@
 # 数据可视化
 
-本代码是[Gitchat](https://gitbook.cn/)上发布的《数据可视化》教程的源码。
+本代码是Gitchat上发布的[《案例上手Python数据可视化》](https://gitbook.cn/gitchat/column/5c6cd09e7fa9074fde9c8909)教程的源码。
 
 ## 目录：
 
